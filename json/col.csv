@@ -1,0 +1,354 @@
+﻿state,city,dollars,factor
+Alabama,Anniston-Calhoun County,42097,0.84194
+Alabama,Auburn-Opelika,46758,0.93516
+Alabama,Birmingham,46657,0.93314
+Alabama,Decatur-Hartselle,43161,0.86322
+Alabama,Dothan,46150,0.923
+Alabama,Florence,42705,0.8541
+Alabama,Huntsville,46099,0.92198
+Alabama,Mobile,42958,0.85916
+Alabama,Montgomery,44377,0.88754
+Alabama,Unlisted,44551.33333,0.891026667
+Alaska,Anchorage,64539,1.29078
+Alaska,Fairbanks,62918,1.25836
+Alaska,Juneau,65856,1.31712
+Alaska,Kodiak,65350,1.307
+Alaska,Unlisted,64665.75,1.293315
+Arizona,Bullhead City,46606,0.93212
+Arizona,Flagstaff,58713,1.17426
+Arizona,Lake Havasu City,68237,1.36474
+Arizona,Phoenix,53242,1.06484
+Arizona,Prescott-Prescott Valley,58815,1.1763
+Arizona,Surprise,49392,0.98784
+Arizona,Tucson,52128,1.04256
+Arizona,Unlisted,54521.25,1.090425
+Arizona,Yuma,49037,0.98074
+Arkansas,Conway,42199,0.84398
+Arkansas,Fayetteville,45491,0.90982
+Arkansas,Hot Springs,47366,0.94732
+Arkansas,Jonesboro,44833,0.89666
+Arkansas,Little Rock-North Little Rock,48328,0.96656
+Arkansas,Unlisted,45643.4,0.912868
+California,Bakersfield,55420,1.1084
+California,Los Angeles- Long Beach,77812,1.55624
+California,Modesto,60436,1.20872
+California,Oakland,76393,1.52786
+California,Orange County,78673,1.57346
+California,Sacramento,60740,1.2148
+California,San Diego,74215,1.4843
+California,San Francisco,95542,1.91084
+California,Stockton,62209,1.24418
+California,Unlisted,71271.11111,1.425422222
+Colorado,Colorado Springs,53242,1.06484
+Colorado,Denver,56636,1.13272
+Colorado,Grand Junction,50203,1.00406
+Colorado,Pueblo,48784,0.97568
+Colorado,Unlisted,52614,1.05228
+Colorado,Westminster,54205,1.0841
+Connecticut,Hartford,54559,1.09118
+Connecticut,New Haven,58612,1.17224
+Connecticut,Stamford,67629,1.35258
+Connecticut,Unlisted,60266.66667,1.205333333
+Delaware,Dover,52077,1.04154
+Delaware,Sussex County,53546,1.07092
+Delaware,Unlisted,53833,1.07666
+Delaware,Wilmington,55876,1.11752
+District of Columbia,Unlisted,80294,1.60588
+District of Columbia,Washington-Arlington-Alexandria,80294,1.60588
+Florida,Cape Coral-Fort Myers,54509,1.09018
+Florida,Daytona Beach,48683,0.97366
+Florida,Fort Lauderdale,62513,1.25026
+Florida,Gainesville,51672,1.03344
+Florida,Jacksonville,47467,0.94934
+Florida,Miami-Dade County,61196,1.22392
+Florida,Ocala,47112,0.94224
+Florida,Orlando,52280,1.0456
+Florida,Palm Coast-Flagler County,46201,0.92402
+Florida,Pensacola,48328,0.96656
+Florida,Sarasota,53647,1.07294
+Florida,Tallahassee,48480,0.9696
+Florida,Tampa,50355,1.0071
+Florida,Unlisted,51574.14286,1.031482857
+Florida,Vero Beach-Indian River,49595,0.9919
+Georgia,Albany,42503,0.85006
+Georgia,Atlanta,51621,1.03242
+Georgia,Augusta-Aiken,42503,0.85006
+Georgia,Dalton,44428,0.88856
+Georgia,Douglasville-Douglas County,45694,0.91388
+Georgia,Dublin-Laurens County,43161,0.86322
+Georgia,Savannah,44985,0.8997
+Georgia,Statesboro-Bulloch County,42047,0.84094
+Georgia,Unlisted,44861.22222,0.897224444
+Georgia,Valdosta,46809,0.93618
+Hawaii,Honolulu,98784,1.97568
+Hawaii,Unlisted,98784,1.97568
+Idaho,Boise,53951,1.07902
+Idaho,Twin Falls,45897,0.91794
+Idaho,Unlisted,49924,0.99848
+Illinois,Bloomington-Normal,46606,0.93212
+Illinois,Champaign-Urbana,44124,0.88248
+Illinois,Chicago,61803,1.23606
+Illinois,Danville,42806,0.85612
+Illinois,Decatur,41135,0.8227
+Illinois,Joliet-Will County,48328,0.96656
+Illinois,Kankakee,45897,0.91794
+Illinois,Peoria,45491,0.90982
+Illinois,Rockford,44478,0.88956
+Illinois,Springfield,47416,0.94832
+Illinois,Unlisted,46808.4,0.936168
+Indiana,Bloomington  ,50861,1.01722
+Indiana,Elkhart-Goshen,44529,0.89058
+Indiana,Evansville,46758,0.93516
+Indiana,Fort Wayne-Allen County,44630,0.8926
+Indiana,Indianapolis,46505,0.9301
+Indiana,Kokomo ,43718,0.87436
+Indiana,Lafayette,45441,0.90882
+Indiana,Muncie,46454,0.92908
+Indiana,Richmond,41641,0.83282
+Indiana,South Bend,44782,0.89564
+Indiana,Terre Haute,46251,0.92502
+Indiana,Unlisted,45597.27273,0.911945455
+Iowa,Ames,48430,0.9686
+Iowa,Burlington,43870,0.8774
+Iowa,Cedar Rapids,45846,0.91692
+Iowa,Davenport-Moline-Rock Is,45441,0.90882
+Iowa,Des Moines,43566,0.87132
+Iowa,Dubuque,45289,0.90578
+Iowa,Iowa City,47822,0.95644
+Iowa,Mason City,44883,0.89766
+Iowa,Sioux City,44326,0.88652
+Iowa,Unlisted,45319.1,0.906382
+Iowa,Waterloo-Cedar Falls,43718,0.87436
+Kansas,Dodge City,44428,0.88856
+Kansas,Hutchinson,45035,0.9007
+Kansas,Manhattan,46960,0.9392
+Kansas,Pittsburg,42604,0.85208
+Kansas,Salina,42249,0.84498
+Kansas,Topeka,42401,0.84802
+Kansas,Unlisted,44210.28571,0.884205714
+Kansas,Wichita,45795,0.9159
+Kentucky,Lexington,47264,0.94528
+Kentucky,Louisville,47771,0.95542
+Kentucky,Unlisted,47517.5,0.95035
+Louisiana,Alexandria,45593,0.91186
+Louisiana,Baton Rouge,49037,0.98074
+Louisiana,Hammond,44529,0.89058
+Louisiana,Houma-Terrebonne Parish,49088,0.98176
+Louisiana,Lafayette,44732,0.89464
+Louisiana,Lake Charles,43161,0.86322
+Louisiana,Monroe,44124,0.88248
+Louisiana,New Orleans,56991,1.13982
+Louisiana,Shreveport-Bossier City,47011,0.94022
+Louisiana,Slidell-St. Tammany Parish,48531,0.97062
+Louisiana,Thibodaux-Lafourche Parish,47771,0.95542
+Louisiana,Unlisted,47324.36364,0.946487273
+Maine,Portland,58916,1.17832
+Maine,Unlisted,58916,1.17832
+Maryland,Baltimore,55117,1.10234
+Maryland,Bethesda-Gaithersburg-Frederick,73354,1.46708
+Maryland,Unlisted,64235.5,1.28471
+Massachusetts,Boston,77761,1.55522
+Massachusetts,Framingham-Natick,71986,1.43972
+Massachusetts,Pittsfield,55826,1.11652
+Massachusetts,Unlisted,68524.33333,1.370486667
+Michigan,Benton Harbor,44225,0.8845
+Michigan,Detroit,52938,1.05876
+Michigan,Grand Rapids,47822,0.95644
+Michigan,Kalamazoo ,38906,0.77812
+Michigan,Marquette,46758,0.93516
+Michigan,Unlisted,46129.8,0.922596
+Minnesota,Mankato,46960,0.9392
+Minnesota,Minneapolis,50507,1.01014
+Minnesota,St. Cloud,49949,0.99898
+Minnesota,St. Paul,50051,1.00102
+Minnesota,Unlisted,49366.75,0.987335
+Mississippi,Hattiesburg,44225,0.8845
+Mississippi,Jackson ,41945,0.8389
+Mississippi,Meridian,43820,0.8764
+Mississippi,Tupelo,41084,0.82168
+Mississippi,Unlisted,42768.5,0.85537
+Missouri,Cape Girardeau,48278,0.96556
+Missouri,Columbia,47974,0.95948
+Missouri,Jefferson City,45846,0.91692
+Missouri,Joplin,41337,0.82674
+Missouri,Kansas City,48379,0.96758
+Missouri,Springfield,44174,0.88348
+Missouri,St. Louis,43972,0.87944
+Missouri,Unlisted,45708.57143,0.914171429
+Montana,Bozeman,61398,1.22796
+Montana,Great Falls,44326,0.88652
+Montana,Unlisted,52862,1.05724
+Nebraska,Hastings,47011,0.94022
+Nebraska,Lincoln,46150,0.923
+Nebraska,Omaha,46859,0.93718
+Nebraska,Unlisted,46673.33333,0.933466667
+Nevada,Las Vegas,52077,1.04154
+Nevada,Reno-Sparks,54610,1.0922
+Nevada,Unlisted,53343.5,1.06687
+New Hampshire,Manchester,57700,1.154
+New Hampshire,Unlisted,57700,1.154
+New Jersey,Bergen-Passaic,62259,1.24518
+New Jersey,Middlesex-Monmouth,59068,1.18136
+New Jersey,Morristown,58561,1.17122
+New Jersey,Newark-Elizabeth,62158,1.24316
+New Jersey,Unlisted,58216.6,1.164332
+New Jersey,Vineland,49037,0.98074
+New Mexico,Albuquerque,47163,0.94326
+New Mexico,Las Cruces,45947,0.91894
+New Mexico,Rio Rancho,48480,0.9696
+New Mexico,Unlisted,47196.66667,0.943933333
+New York,Albany,54306,1.08612
+New York,Buffalo,48480,0.9696
+New York,New York City,96234.33333,1.924686667
+New York,Rochester,50405,1.0081
+New York,Unlisted,70567.28571,1.411345714
+New York,Utica-Rome,52077,1.04154
+North Carolina,Asheville,51874,1.03748
+North Carolina,Burlington,46099,0.92198
+North Carolina,Chapel Hill,51976,1.03952
+North Carolina,Charlotte,49240,0.9848
+North Carolina,Dare County,52330,1.0466
+North Carolina,Durham,51165,1.0233
+North Carolina,Raleigh,48784,0.97568
+North Carolina,Salisbury,47214,0.94428
+North Carolina,Thomasville-Lexington,42806,0.85612
+North Carolina,Unlisted,48961.4,0.979228
+North Carolina,Winston-Salem,48126,0.96252
+North Dakota,Bismarck-Mandan,51013,1.02026
+North Dakota,Grand Forks,47467,0.94934
+North Dakota,Minot,49443,0.98886
+North Dakota,Unlisted,49307.66667,0.986153333
+Ohio,Akron,42908,0.85816
+Ohio,Ashland,41641,0.83282
+Ohio,Cincinnati,48176,0.96352
+Ohio,Cleveland,47720,0.9544
+Ohio,Columbus,45289,0.90578
+Ohio,Dayton ,47011,0.94022
+Ohio,Findlay,45897,0.91794
+Ohio,Lima,43617,0.87234
+Ohio,Unlisted,45282.375,0.9056475
+Oklahoma,Ardmore,43110,0.8622
+Oklahoma,Broken Arrow,45441,0.90882
+Oklahoma,Edmond,45694,0.91388
+Oklahoma,Enid,44225,0.8845
+Oklahoma,Lawton,45593,0.91186
+Oklahoma,Muskogee,39868,0.79736
+Oklahoma,Norman,47062,0.94124
+Oklahoma,Oklahoma City,42806,0.85612
+Oklahoma,Ponca City,43313,0.86626
+Oklahoma,Tulsa,43820,0.8764
+Oklahoma,Unlisted,44093.2,0.881864
+Oregon,Eugene,60942,1.21884
+Oregon,Portland,64539,1.29078
+Oregon,Unlisted,62740.5,1.25481
+Pennsylvania,Allentown,53749,1.07498
+Pennsylvania,Erie,45187,0.90374
+Pennsylvania,Harrisburg,52381,1.04762
+Pennsylvania,Philadelphia,54205,1.0841
+Pennsylvania,Pittsburgh,51722,1.03444
+Pennsylvania,Reading,51722,1.03444
+Pennsylvania,Scranton,47416,0.94832
+Pennsylvania,Unlisted,50386.125,1.0077225
+Pennsylvania,Wilkes-Barre,46707,0.93414
+Puerto Rico,San Juan,50861,1.01722
+Puerto Rico,Unlisted,50861,1.01722
+Rhode Island,Providence,58257,1.16514
+Rhode Island,Unlisted,58257,1.16514
+South Carolina,Anderson,44833,0.89666
+South Carolina,Charleston-N Charleston,50304,1.00608
+South Carolina,Columbia,47366,0.94732
+South Carolina,Greenville,45795,0.9159
+South Carolina,Hilton Head Island,56687,1.13374
+South Carolina,Spartanburg,47264,0.94528
+South Carolina,Unlisted,48708.16667,0.974163333
+South Dakota,Pierre,51216,1.02432
+South Dakota,Rapid City,47366,0.94732
+South Dakota,Sioux Falls,46454,0.92908
+South Dakota,Unlisted,48345.33333,0.966906667
+Tennessee,Chattanooga,47264,0.94528
+Tennessee,Cleveland,43921,0.87842
+Tennessee,Columbia-Maury County,48126,0.96252
+Tennessee,Cookeville,44833,0.89666
+Tennessee,Jackson-Madison County,43110,0.8622
+Tennessee,Johnson City,48987,0.97974
+Tennessee,Kingsport,46960,0.9392
+Tennessee,Knoxville,42553,0.85106
+Tennessee,Memphis,43718,0.87436
+Tennessee,Morristown,44732,0.89464
+Tennessee,Nashville-Murfreesboro,49493,0.98986
+Tennessee,Unlisted,45790.63636,0.915812727
+Texas,Abilene,45947,0.91894
+Texas,Amarillo,42249,0.84498
+Texas,Austin,51469,1.02938
+Texas,Beaumont,48886,0.97772
+Texas,Cedar Park,47214,0.94428
+Texas,Conroe,47822,0.95644
+Texas,Corpus Christi,46403,0.92806
+Texas,Dallas,52685,1.0537
+Texas,El Paso,45238,0.90476
+Texas,Fort Worth,48075,0.9615
+Texas,Harlingen,38754,0.77508
+Texas,Houston,47062,0.94124
+Texas,Longview,47062,0.94124
+Texas,Lubbock,45795,0.9159
+Texas,McAllen,39767,0.79534
+Texas,Midland,46353,0.92706
+Texas,Nacogdoches,44124,0.88248
+Texas,Odessa,47163,0.94326
+Texas,Plano,60284,1.20568
+Texas,San Antonio,46251,0.92502
+Texas,San Marcos,48936,0.97872
+Texas,Seguin,45187,0.90374
+Texas,Sherman-Denison,47062,0.94124
+Texas,Temple,46555,0.9311
+Texas,Texarkana,45694,0.91388
+Texas,Tyler,48683,0.97366
+Texas,Unlisted,46857.39286,0.937147857
+Texas,Waco,45086,0.90172
+Texas,Wichita Falls,46201,0.92402
+Utah,Cedar City,49443,0.98886
+Utah,Ogden,50456,1.00912
+Utah,Provo-Orem,52229,1.04458
+Utah,Salt Lake City,54610,1.0922
+Utah,St. George,50659,1.01318
+Utah,Unlisted,51479.4,1.029588
+Vermont,Burlington-Chittenden County,59726,1.19452
+Vermont,Unlisted,59726,1.19452
+Virginia,Blacksburg,47923,0.95846
+Virginia,Charlottesville,52482,1.04964
+Virginia,Danville City,44428,0.88856
+Virginia,Hampton Roads-SE Virginia,48683,0.97366
+Virginia,Lexington-Buena Vista-Rockbridge,46302,0.92604
+Virginia,Lynchburg,45390,0.9078
+Virginia,Martinsville-Henry County,43212,0.86424
+Virginia,Northern Virginia,72720.5,1.45441
+Virginia,Richmond,48734,0.97468
+Virginia,Roanoke,46201,0.92402
+Virginia,Unlisted,51583.25,1.031665
+Virginia,Winchester,50203,1.00406
+Washington,Bellingham,61196,1.22392
+Washington,Kennewick-Richland-Pasco,50963,1.01926
+Washington,Kitsap County,62006,1.24012
+Washington,Moses Lake,50405,1.0081
+Washington,Mount Vernon-Skagit County,61145,1.2229
+Washington,Olympia,57497,1.14994
+Washington,Seattle,78014,1.56028
+Washington,Spokane,52837,1.05674
+Washington,Tacoma,62259,1.24518
+Washington,Unlisted,57990.18182,1.159803636
+Washington,Wenatchee,51773,1.03546
+Washington,Yakima,49797,0.99594
+West Virginia,Charleston ,44985,0.8997
+West Virginia,Morgantown,46150,0.923
+West Virginia,Unlisted,45567.5,0.91135
+Wisconsin,Eau Claire,49797,0.99594
+Wisconsin,Fond du Lac,46353,0.92706
+Wisconsin,Green Bay,45289,0.90578
+Wisconsin,Madison,52533,1.05066
+Wisconsin,Marshfield,45846,0.91692
+Wisconsin,Milwaukee-Waukesha,50000,1
+Wisconsin,Unlisted,48303,0.96606
+Wyoming,Casper,46302,0.92604
+Wyoming,Cheyenne,48176,0.96352
+Wyoming,Laramie,46960,0.9392
+Wyoming,Unlisted,47146,0.94292
